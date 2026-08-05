@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_cost,unit_price
+20001,Essential Phone 0000,Accessories,StyleHub,3744.58,6009.19
+20002,Smart Headphones 0001,Grocery,HomePro,6782.55,14851.52
+20003,Classic Backpack 0002,Home & Kitchen,StyleHub,7178.03,9544.22
+20004,Essential Keyboard 0003,Home & Kitchen,StyleHub,996.32,2148.18
+20005,Advanced Watch 0004,Fashion,FitLife,590.03,1043.84
+20006,Pro T-Shirt 0005,Beauty,Nova,1061.34,1958.91
+20007,Essential Coffee Maker 0006,Fashion,StyleHub,5404.02,9469.81
+20008,Advanced Phone 0007,Electronics,HomePro,4309.35,9402.95
+20009,Smart Novel 0008,Beauty,PrimeTech,5929.34,7094.53
+20010,Premium Phone 0009,Beauty,HomePro,4787.54,7569.04
+20011,Premium Phone 0010,Fashion,FitLife,857.49,1774.14
+20012,Pro Shoes 0011,Grocery,DailyMart,2135.29,2830.21
+20013,Advanced Phone 0012,Fashion,UrbanX,2719.26,4753.47
+20014,Classic Novel 0013,Accessories,Nova,5690.8,9672.97
+20015,Classic Keyboard 0014,Electronics,PrimeTech,4815.13,9619.67
+20016,Advanced Skincare Kit 0015,Sports,PrimeTech,7579.91,16025.18
+20017,Pro Skincare Kit 0016,Accessories,Nova,1249.63,1776.69
+20018,Advanced Keyboard 0017,Fashion,HomePro,7515.15,14111.96
+20019,Premium Keyboard 0018,Books,StyleHub,1839.19,3172.74
+20020,Premium T-Shirt 0019,Books,PureCare,2813.39,5193.31
+20021,Smart Novel 0020,Fashion,FitLife,373.18,507.67
+20022,Essential Backpack 0021,Books,HomePro,2442.57,3508.28
+20023,Advanced Blender 0022,Books,FitLife,1677.68,2897.92
+20024,Classic Camera 0023,Beauty,PrimeTech,1816.28,2094.34
+20025,Smart Phone 0024,Beauty,UrbanX,4620.41,8789.16
+20026,Advanced Monitor 0025,Beauty,StyleHub,6268.22,8271.84
+20027,Essential T-Shirt 0026,Home & Kitchen,HomePro,5985.16,12735.62
+20028,Pro Coffee Maker 0027,Beauty,PrimeTech,6650.27,13657.24
+20029,Advanced Shoes 0028,Fashion,DailyMart,5877.55,10606.15
+20030,Classic Phone 0029,Fashion,StyleHub,7814.39,16297.77
+20031,Essential Phone 0030,Home & Kitchen,StyleHub,245.94,537.77
+20032,Essential Monitor 0031,Sports,FitLife,7904.38,15521.87
+20033,Classic Skincare Kit 0032,Electronics,PrimeTech,3337.65,6034.35
+20034,Advanced Keyboard 0033,Electronics,StyleHub,3874.65,6283.7
+20035,Classic T-Shirt 0034,Home & Kitchen,DailyMart,4661.07,9341.9
+20036,Premium Shoes 0035,Sports,StyleHub,167.33,316.2
+20037,Smart Watch 0036,Fashion,PureCare,1535.51,2527.87
+20038,Essential Monitor 0037,Beauty,Nova,3623.17,6068.94
+20039,Premium Shoes 0038,Home & Kitchen,FitLife,6179.19,8591.44
+20040,Essential Blender 0039,Beauty,FitLife,6973.7,13794.12
+20041,Smart Camera 0040,Beauty,DailyMart,1267.1,2625.74
+20042,Pro Skincare Kit 0041,Fashion,DailyMart,2177.59,2541.92
+20043,Essential Coffee Maker 0042,Electronics,UrbanX,4898.23,6208.48
+20044,Essential Phone 0043,Sports,HomePro,2951.77,6466.73
+20045,Classic Camera 0044,Home & Kitchen,DailyMart,2453.51,3280.37
+20046,Pro Coffee Maker 0045,Beauty,,3128.24,6016.72
+20047,Classic Backpack 0046,Books,Nova,5642.61,9337.87
+20048,Advanced Keyboard 0047,Electronics,StyleHub,1668.94,2832.89
+20049,Classic Coffee Maker 0048,Books,PrimeTech,589.06,744.45
+20050,Smart Shoes 0049,Fashion,FitLife,127.31,164.83
+20051,Premium Phone 0050,Sports,StyleHub,4260.69,7485.21
+20052,Advanced Phone 0051,Electronics,PrimeTech,2075.14,3209.23
+20053,Essential Phone 0052,Beauty,HomePro,4536.95,9016.44
+20054,Smart Backpack 0053,Beauty,DailyMart,7059.83,15323.9
+20055,Smart Phone 0054,Home & Kitchen,PrimeTech,2419.9,4846.9
+20056,Advanced Watch 0055,Sports,UrbanX,1550.21,2443.46
+20057,Classic Keyboard 0056,Books,Nova,112.44,186.23
+20058,Advanced Backpack 0057,Beauty,UrbanX,7852.69,10322.54
+20059,Classic Camera 0058,Books,Nova,4182.93,7865.9
+20060,Smart Phone 0059,Fashion,Nova,6436.55,10425.45
+20061,Advanced Novel 0060,Grocery,StyleHub,6878.99,14103.67
+20062,Essential Backpack 0061,Fashion,StyleHub,7962.19,14607.68
+20063,Pro Phone 0062,Grocery,PureCare,6891.1,9158.76
+20064,Premium Coffee Maker 0063,Beauty,StyleHub,2423.06,3832.15
+20065,Smart Keyboard 0064,Sports,UrbanX,4558.5,8482.44
+20066,Smart Novel 0065,Electronics,FitLife,7705.61,15802.81
+20067,Pro Keyboard 0066,Electronics,HomePro,5103.69,7749.17
+20068,Advanced Watch 0067,Accessories,UrbanX,6175.6,11443.2
+20069,Advanced Backpack 0068,Electronics,FitLife,7262.63,9675.8
+20070,Advanced Camera 0069,Sports,FitLife,4947.86,10390.25
+20071,Advanced Monitor 0070,Beauty,HomePro,5570.49,9770.24
+20072,Pro Coffee Maker 0071,Books,UrbanX,4747.36,9290.73
+20073,Essential Skincare Kit 0072,Electronics,Nova,2775.24,4347.95
+20074,Smart Watch 0073,Home & Kitchen,PureCare,2065.48,4415.1
+20075,Premium Keyboard 0074,Fashion,UrbanX,5104.92,9730.55
+20076,Pro Novel 0075,Accessories,PrimeTech,7850.88,10295.18
+20077,Pro Shoes 0076,Fashion,FitLife,7337.49,12676.94
+20078,Advanced Camera 0077,Sports,HomePro,1757.89,2523.17
+20079,Essential Phone 0078,Sports,PureCare,6757.78,13684.69
+20080,Pro Watch 0079,Beauty,PrimeTech,266.75,526.02
+20081,Advanced Keyboard 0080,Grocery,DailyMart,4756.65,7940.14
+20082,Advanced Backpack 0081,Books,PrimeTech,7449.66,10928.82
+20083,Pro Skincare Kit 0082,Beauty,Nova,7678.75,15705.51
+20084,Smart Backpack 0083,Fashion,FitLife,4864.16,9937.52
+20085,Essential Headphones 0084,Fashion,FitLife,5083.43,8542.69
+20086,Classic Keyboard 0085,Accessories,DailyMart,3180.26,6052.42
+20087,Advanced Skincare Kit 0086,Home & Kitchen,Nova,5816.74,8432.97
+20088,Essential Monitor 0087,Home & Kitchen,StyleHub,2041.1,3094.9
+20089,Smart Novel 0088,Fashion,FitLife,367.58,787.08
+20090,Essential Monitor 0089,Grocery,HomePro,6698.9,12882.59
+20091,Pro Headphones 0090,Books,PrimeTech,576.86,707.07
+20092,Premium Skincare Kit 0091,Accessories,PrimeTech,5351.19,8725.76
+20093,Smart Watch 0092,Books,Nova,3551.75,5560.38
+20094,Classic Keyboard 0093,Beauty,StyleHub,441.73,615.13
+20095,Classic Skincare Kit 0094,Electronics,PureCare,1362.55,2990.37
+20096,Classic Laptop 0095,Accessories,HomePro,895.68,1157.74
+20097,Essential Blender 0096,Books,Nova,1793.8,2654.79
+20098,Smart Keyboard 0097,Electronics,PureCare,5118.69,10448.04
+20099,Premium Shoes 0098,Accessories,DailyMart,4607.91,5939.08
+20100,Smart Novel 0099,Sports,StyleHub,3520.19,5438.5
+20101,Advanced Monitor 0100,Sports,Nova,6760.12,12275.72
+20102,Premium Laptop 0101,Fashion,HomePro,6049.32,9096.61
+20103,Essential Skincare Kit 0102,Fashion,StyleHub,5493.39,8675.5
+20104,Classic T-Shirt 0103,Fashion,DailyMart,4831.02,8346.16
+20105,Smart Phone 0104,Electronics,HomePro,5599.27,12040.23
+20106,Classic Shoes 0105,Beauty,Nova,1890.09,3902.0
+20107,Smart Skincare Kit 0106,Electronics,FitLife,2152.59,2728.54
+20108,Smart Skincare Kit 0107,Sports,FitLife,2455.11,4291.29
+20109,Pro Monitor 0108,Home & Kitchen,UrbanX,5954.4,10932.05
+20110,Advanced Skincare Kit 0109,Sports,HomePro,3514.97,5244.51
+20111,Smart Skincare Kit 0110,Fashion,Nova,7680.08,10962.6
+20112,Classic Camera 0111,Fashion,Nova,417.59,742.32
+20113,Classic Phone 0112,Home & Kitchen,PrimeTech,3127.02,4958.6
+20114,Smart Skincare Kit 0113,Beauty,Nova,1322.34,2777.33
+20115,Premium Headphones 0114,Electronics,PrimeTech,6548.93,8655.93
+20116,Pro Coffee Maker 0115,Home & Kitchen,FitLife,3888.91,4640.01
+20117,Smart Phone 0116,Beauty,HomePro,4998.13,10469.07
+20118,Classic Phone 0117,Books,UrbanX,4823.8,10086.23
+20119,Advanced Monitor 0118,Beauty,,724.62,1150.41
+20120,Premium Phone 0119,Electronics,PureCare,6291.53,12215.53
+20121,Pro Watch 0120,Books,StyleHub,6593.62,13437.8
+20122,Essential T-Shirt 0121,Beauty,PrimeTech,4898.77,6944.67
+20123,Classic Monitor 0122,Books,PureCare,2319.48,4261.27
+20124,Smart Shoes 0123,Accessories,PrimeTech,5820.33,11198.36
+20125,Advanced Shoes 0124,Electronics,Nova,5635.26,8595.84
+20126,Premium Skincare Kit 0125,Accessories,FitLife,7309.06,15665.47
+20127,Pro Camera 0126,Accessories,FitLife,1026.93,2223.83
+20128,Premium Phone 0127,Sports,UrbanX,7287.45,12104.92
+20129,Essential Headphones 0128,Electronics,HomePro,7107.87,8741.26
+20130,Smart Monitor 0129,Home & Kitchen,Nova,2450.47,5182.54
+20131,Classic Backpack 0130,Home & Kitchen,HomePro,5757.96,9783.48
+20132,Advanced Monitor 0131,Sports,HomePro,2183.29,2829.04
+20133,Essential Headphones 0132,Books,PrimeTech,1957.26,3755.4
+20134,Smart Skincare Kit 0133,Beauty,StyleHub,5168.13,9672.21
+20135,Advanced Blender 0134,Fashion,FitLife,495.26,642.28
+20136,Essential Backpack 0135,Electronics,HomePro,862.17,1240.32
+20137,Classic Skincare Kit 0136,Accessories,PureCare,5315.13,10935.74
+20138,Pro Phone 0137,Accessories,HomePro,7619.77,16520.15
+20139,Classic Monitor 0138,Electronics,HomePro,368.91,581.22
+20140,Pro Keyboard 0139,Fashion,FitLife,281.06,362.94
+20141,Essential Backpack 0140,Accessories,UrbanX,690.7,1049.57
+20142,Smart Skincare Kit 0141,Beauty,PureCare,113.15,190.43
+20143,Classic T-Shirt 0142,Sports,StyleHub,7433.67,10893.64
+20144,Smart Watch 0143,Sports,,3844.93,6889.6
+20145,Premium Watch 0144,Books,UrbanX,5567.7,6449.18
+20146,Pro Monitor 0145,Accessories,PureCare,3389.46,6803.66
+20147,Advanced Laptop 0146,Beauty,Nova,7978.24,16250.79
+20148,Advanced Novel 0147,Grocery,Nova,3891.46,7676.61
+20149,Smart Shoes 0148,Beauty,StyleHub,7520.2,11044.21
+20150,Essential Novel 0149,Home & Kitchen,HomePro,5231.92,9490.65
+20151,Smart Camera 0150,Electronics,UrbanX,7587.13,11634.68
+20152,Advanced Laptop 0151,Books,HomePro,4011.62,6253.07
+20153,Pro T-Shirt 0152,Sports,PureCare,7043.15,13343.64
+20154,Premium Blender 0153,Grocery,HomePro,2737.71,5573.2
+20155,Pro Backpack 0154,Home & Kitchen,StyleHub,5323.47,10766.94
+20156,Pro Novel 0155,Books,Nova,4975.76,6929.45
+20157,Smart Camera 0156,Electronics,FitLife,3946.01,7264.33
+20158,Pro Laptop 0157,Home & Kitchen,UrbanX,4061.71,5809.96
+20159,Smart Novel 0158,Sports,UrbanX,1443.96,2613.37
+20160,Classic Coffee Maker 0159,Sports,PrimeTech,7257.61,11144.53
+20161,Advanced Shoes 0160,Sports,HomePro,3688.26,7300.75
+20162,Advanced T-Shirt 0161,Grocery,PrimeTech,1296.61,2767.41
+20163,Classic Skincare Kit 0162,Grocery,PureCare,5664.2,8238.47
+20164,Smart Phone 0163,Home & Kitchen,HomePro,5844.57,12052.99
+20165,Smart Keyboard 0164,Home & Kitchen,Nova,456.43,879.54
+20166,Pro Camera 0165,Sports,HomePro,2729.28,4760.75
+20167,Classic Monitor 0166,Accessories,Nova,4715.66,8022.37
+20168,Essential Skincare Kit 0167,Books,UrbanX,6590.5,9788.68
+20169,Pro Laptop 0168,Home & Kitchen,StyleHub,2553.78,3481.95
+20170,Classic Phone 0169,Books,StyleHub,2467.27,3053.38
+20171,Essential Backpack 0170,Fashion,FitLife,5918.89,11234.48
+20172,Smart Camera 0171,Electronics,HomePro,1831.71,2534.29
+20173,Classic Coffee Maker 0172,Books,PureCare,7178.39,11989.04
+20174,Smart Monitor 0173,Fashion,Nova,6344.28,13223.42
+20175,Smart Monitor 0174,Grocery,HomePro,7155.14,13270.36
+20176,Pro Blender 0175,Sports,UrbanX,2894.59,3843.14
+20177,Essential Phone 0176,Beauty,Nova,1409.31,2707.53
+20178,Essential Keyboard 0177,Home & Kitchen,StyleHub,4721.96,6495.41
+20179,Smart Phone 0178,Fashion,Nova,1600.75,3151.72
+20180,Essential Phone 0179,Fashion,StyleHub,2202.29,2712.34
+20181,Pro Shoes 0180,Books,PureCare,3264.48,4239.89
+20182,Essential T-Shirt 0181,Beauty,PureCare,3755.55,8002.7
+20183,Advanced Keyboard 0182,Electronics,FitLife,2647.07,3823.16
+20184,Pro Phone 0183,Electronics,UrbanX,2349.29,3073.27
+20185,Advanced T-Shirt 0184,Fashion,FitLife,2049.14,2818.91
+20186,Premium Keyboard 0185,Sports,StyleHub,5552.07,8489.97
+20187,Premium Skincare Kit 0186,Fashion,HomePro,2516.44,5107.11
+20188,Smart Phone 0187,Accessories,HomePro,5585.74,7318.14
+20189,Smart Backpack 0188,Home & Kitchen,UrbanX,5968.79,6962.82
+20190,Classic Backpack 0189,Beauty,PureCare,5742.42,11819.28
+20191,Classic Skincare Kit 0190,Beauty,PureCare,7324.05,10727.11
+20192,Classic Skincare Kit 0191,Fashion,FitLife,7640.44,9403.57
+20193,Classic Shoes 0192,Accessories,StyleHub,1260.2,1485.97
+20194,Premium Backpack 0193,Fashion,UrbanX,2632.64,5514.21
+20195,Smart Blender 0194,Electronics,FitLife,6322.57,10743.93
+20196,Pro Monitor 0195,Sports,DailyMart,6276.24,11240.9
+20197,Smart Phone 0196,Books,UrbanX,660.45,1186.74
+20198,Essential Keyboard 0197,Beauty,PrimeTech,7700.09,13077.09
+20199,Smart Coffee Maker 0198,Beauty,DailyMart,6864.02,13437.86
+20200,Pro Keyboard 0199,Grocery,DailyMart,7203.71,15137.81
+20201,Classic Camera 0200,Fashion,HomePro,1714.64,3126.01
+20202,Classic Keyboard 0201,Books,PrimeTech,4057.27,8260.92
+20203,Essential T-Shirt 0202,Grocery,PrimeTech,3580.28,4153.47
+20204,Smart Keyboard 0203,Beauty,HomePro,2946.36,4873.86
+20205,Essential Laptop 0204,Sports,PrimeTech,1896.11,3383.13
+20206,Essential Phone 0205,Beauty,StyleHub,1202.89,1637.49
+20207,Premium Phone 0206,Sports,Nova,6977.02,9197.89
+20208,Pro Laptop 0207,Sports,Nova,4290.44,5547.78
+20209,Pro Keyboard 0208,Grocery,,4846.53,7022.92
+20210,Pro Shoes 0209,Fashion,FitLife,2166.65,4364.89
+20211,Classic Keyboard 0210,Home & Kitchen,DailyMart,7486.92,8827.31
+20212,Classic Novel 0211,Beauty,Nova,7497.38,13364.45
+20213,Essential Blender 0212,Sports,DailyMart,5404.46,6601.88
+20214,Classic Laptop 0213,Fashion,UrbanX,2632.37,4666.81
+20215,Essential Backpack 0214,Accessories,Nova,1939.47,2744.0
+20216,Classic Laptop 0215,Sports,PrimeTech,4802.64,6316.48
+20217,Essential T-Shirt 0216,Grocery,,6679.74,10948.92
+20218,Advanced Backpack 0217,Sports,DailyMart,7739.17,10778.05
+20219,Premium Phone 0218,Beauty,Nova,638.7,988.18
+20220,Classic Laptop 0219,Grocery,DailyMart,2740.15,4972.56
+20221,Smart Skincare Kit 0220,Home & Kitchen,PureCare,3190.08,6804.57
+20222,Premium Skincare Kit 0221,Fashion,HomePro,3015.3,5423.66
+20223,Advanced Coffee Maker 0222,Grocery,FitLife,5375.43,9043.74
+20224,Advanced Backpack 0223,Accessories,StyleHub,4422.93,7673.12
+20225,Pro Laptop 0224,Fashion,DailyMart,7141.86,11753.34
+20226,Smart Keyboard 0225,Sports,UrbanX,1858.15,3234.95
+20227,Smart Backpack 0226,Beauty,DailyMart,3254.72,5691.48
+20228,Classic Backpack 0227,Books,HomePro,4375.16,7292.54
+20229,Essential T-Shirt 0228,Beauty,DailyMart,6552.69,12959.85
+20230,Pro Skincare Kit 0229,Sports,DailyMart,6603.59,10303.47
+20231,Essential Watch 0230,Books,PureCare,6889.04,8707.57
+20232,Classic Coffee Maker 0231,Grocery,PureCare,4201.16,7667.98
+20233,Classic Shoes 0232,Home & Kitchen,HomePro,2008.64,3988.96
+20234,Premium Laptop 0233,Books,FitLife,5837.42,11493.99
+20235,Essential Shoes 0234,Home & Kitchen,UrbanX,7641.92,10811.32
+20236,Essential Laptop 0235,Electronics,PrimeTech,2353.87,4306.1
+20237,Essential Watch 0236,Books,FitLife,1667.21,3665.39
+20238,Essential Monitor 0237,Beauty,PureCare,277.56,349.67
+20239,Pro Coffee Maker 0238,Books,PrimeTech,5365.1,9114.73
+20240,Advanced Novel 0239,Accessories,DailyMart,4405.62,6479.16
+20241,Classic T-Shirt 0240,Home & Kitchen,FitLife,1164.24,2306.11
+20242,Advanced Watch 0241,Beauty,DailyMart,1676.17,2499.11
+20243,Smart Backpack 0242,Electronics,HomePro,5331.56,10238.0
+20244,Advanced Headphones 0243,Grocery,StyleHub,3544.54,4673.39
+20245,Premium Blender 0244,Accessories,FitLife,1942.52,2370.49
+20246,Advanced Backpack 0245,Grocery,UrbanX,4886.0,6152.98
+20247,Pro Phone 0246,Accessories,PrimeTech,516.06,734.51
+20248,Essential Coffee Maker 0247,Fashion,DailyMart,228.0,465.57
+20249,Pro Phone 0248,Fashion,FitLife,2160.93,2826.4
+20250,Premium Keyboard 0249,Grocery,StyleHub,2387.2,2828.98
+20251,Premium Laptop 0250,Books,Nova,924.51,1891.67
+20252,Advanced Blender 0251,Beauty,Nova,1007.44,1555.11
+20253,Pro Novel 0252,Home & Kitchen,StyleHub,1425.64,2520.77
+20254,Classic Shoes 0253,Electronics,Nova,5824.41,7210.55
+20255,Pro Phone 0254,Electronics,UrbanX,6468.71,13601.83
+20256,Smart Skincare Kit 0255,Books,StyleHub,1534.68,2577.75
+20257,Advanced Skincare Kit 0256,Fashion,DailyMart,5288.48,6579.12
+20258,Essential Backpack 0257,Grocery,PureCare,1945.85,3532.69
+20259,Premium Watch 0258,Grocery,HomePro,7052.46,10817.37
+20260,Essential Laptop 0259,Beauty,DailyMart,2224.53,3383.68
+20261,Advanced Backpack 0260,Fashion,StyleHub,1125.19,1776.26
+20262,Essential T-Shirt 0261,Home & Kitchen,DailyMart,3569.25,6008.94
+20263,Pro Headphones 0262,Fashion,UrbanX,1318.28,2373.29
+20264,Smart Camera 0263,Sports,StyleHub,1667.1,2173.45
+20265,Advanced Novel 0264,Grocery,DailyMart,2778.6,5396.28
+20266,Pro Monitor 0265,Books,DailyMart,5319.69,6269.26
+20267,Premium Phone 0266,Accessories,PureCare,1023.15,1927.75
+20268,Pro Skincare Kit 0267,Books,UrbanX,2344.46,3147.35
+20269,Smart Skincare Kit 0268,Sports,StyleHub,6881.08,11141.61
+20270,Premium Headphones 0269,Fashion,Nova,2262.78,3936.4
+20271,Advanced Laptop 0270,Fashion,HomePro,1430.73,2617.88
+20272,Pro Monitor 0271,Fashion,Nova,4315.57,8547.36
+20273,Essential Camera 0272,Accessories,PureCare,363.2,614.54
+20274,Smart Laptop 0273,Sports,PureCare,6451.21,13380.67
+20275,Premium Skincare Kit 0274,Home & Kitchen,Nova,1857.45,3998.73
+20276,Pro Watch 0275,Home & Kitchen,DailyMart,1149.58,2500.16
+20277,Smart Phone 0276,Electronics,PureCare,6484.8,9633.43
+20278,Premium Backpack 0277,Grocery,PureCare,6757.76,7999.72
+20279,Advanced Backpack 0278,Home & Kitchen,HomePro,5904.38,11227.69
+20280,Premium Skincare Kit 0279,Electronics,DailyMart,1953.32,2762.96
+20281,Premium Watch 0280,Fashion,DailyMart,4263.21,8339.14
+20282,Essential Phone 0281,Beauty,StyleHub,7755.62,8959.68
+20283,Advanced Skincare Kit 0282,Accessories,HomePro,3874.35,7617.14
+20284,Advanced Keyboard 0283,Grocery,PureCare,7602.15,9302.38
+20285,Advanced Blender 0284,Home & Kitchen,Nova,5443.31,11285.69
+20286,Premium Laptop 0285,Sports,PrimeTech,6775.47,12425.38
+20287,Smart Phone 0286,Grocery,Nova,1619.96,2138.02
+20288,Essential Coffee Maker 0287,Grocery,PureCare,7421.21,12491.48
+20289,Pro Headphones 0288,Beauty,Nova,6841.42,11496.74
+20290,Advanced Backpack 0289,Home & Kitchen,PureCare,6301.89,13063.76
+20291,Advanced Novel 0290,Grocery,StyleHub,7535.66,12878.09
+20292,Classic Monitor 0291,Beauty,HomePro,6332.14,10941.94
+20293,Pro T-Shirt 0292,Home & Kitchen,FitLife,4656.3,6914.37
+20294,Pro Watch 0293,Books,Nova,5224.65,10004.84
+20295,Premium Coffee Maker 0294,Accessories,PureCare,6585.06,7920.6
+20296,Essential Phone 0295,Accessories,PrimeTech,6018.35,13037.86
+20297,Pro Monitor 0296,Accessories,PureCare,4775.15,8531.11
+20298,Essential Shoes 0297,Books,,4824.83,9832.76
+20299,Premium Coffee Maker 0298,Grocery,StyleHub,7054.23,13897.68
+20300,Classic T-Shirt 0299,Home & Kitchen,StyleHub,178.3,245.89
+20301,Classic Keyboard 0300,Fashion,DailyMart,5771.83,8389.53
+20302,Smart Skincare Kit 0301,Home & Kitchen,HomePro,4568.72,6587.69
+20303,Pro Shoes 0302,Electronics,HomePro,6722.52,9322.75
+20304,Essential Camera 0303,Grocery,DailyMart,1722.95,2010.17
+20305,Pro Laptop 0304,Beauty,HomePro,4250.21,8578.19
+20306,Premium Novel 0305,Sports,PrimeTech,1108.39,1900.61
+20307,Advanced Phone 0306,Electronics,Nova,5309.06,9400.98
+20308,Premium Shoes 0307,Home & Kitchen,PrimeTech,6133.77,10220.63
+20309,Premium Shoes 0308,Electronics,UrbanX,5025.91,6436.09
+20310,Essential Monitor 0309,Beauty,PureCare,4482.69,7207.75
+20311,Pro Watch 0310,Sports,StyleHub,2812.69,4101.79
+20312,Premium Blender 0311,Home & Kitchen,PrimeTech,5154.3,10755.28
+20313,Advanced Headphones 0312,Books,DailyMart,7206.09,13592.62
+20314,Pro Backpack 0313,Electronics,HomePro,5799.2,7659.53
+20315,Classic Blender 0314,Grocery,HomePro,281.33,530.87
+20316,Smart Headphones 0315,Accessories,FitLife,4118.9,7108.34
+20317,Premium Novel 0316,Books,PrimeTech,5917.69,7312.85
+20318,Advanced Camera 0317,Sports,HomePro,4082.89,4993.49
+20319,Pro Coffee Maker 0318,Books,FitLife,4771.67,6226.12
+20320,Essential Shoes 0319,Home & Kitchen,PrimeTech,7301.52,14610.5
+20321,Essential Watch 0320,Accessories,HomePro,7004.21,14158.64
+20322,Advanced T-Shirt 0321,Accessories,,742.38,1327.81
+20323,Premium T-Shirt 0322,Books,PureCare,4133.37,4821.19
+20324,Smart Camera 0323,Accessories,PureCare,5016.3,7439.06
+20325,Essential Phone 0324,Fashion,FitLife,6831.05,10731.27
+20326,Premium Watch 0325,Accessories,StyleHub,2197.45,3183.24
+20327,Pro Skincare Kit 0326,Electronics,DailyMart,1204.85,2120.76
+20328,Advanced Shoes 0327,Books,PureCare,4817.52,5854.84
+20329,Essential Headphones 0328,Fashion,HomePro,3794.14,4442.82
+20330,Classic Blender 0329,Accessories,StyleHub,2135.87,3774.64
+20331,Classic Headphones 0330,Sports,DailyMart,7549.13,10778.32
+20332,Smart T-Shirt 0331,Home & Kitchen,UrbanX,2608.69,4880.48
+20333,Advanced Phone 0332,Fashion,PureCare,536.76,1055.52
+20334,Smart Coffee Maker 0333,Accessories,PrimeTech,564.51,1011.38
+20335,Premium Blender 0334,Grocery,Nova,1688.55,3696.54
+20336,Smart Coffee Maker 0335,Fashion,HomePro,1022.21,1865.61
+20337,Essential Keyboard 0336,Fashion,StyleHub,3218.04,6311.82
+20338,Premium Headphones 0337,Electronics,FitLife,735.67,1341.18
+20339,Essential Shoes 0338,Electronics,UrbanX,4533.21,9046.99
+20340,Classic Phone 0339,Electronics,StyleHub,3326.29,5189.45
+20341,Premium Keyboard 0340,Fashion,FitLife,4823.61,7747.08
+20342,Smart Headphones 0341,Home & Kitchen,FitLife,7914.97,11887.86
+20343,Advanced Keyboard 0342,Electronics,PureCare,7936.02,13930.11
+20344,Smart T-Shirt 0343,Grocery,PureCare,3394.53,5239.03
+20345,Advanced Watch 0344,Accessories,HomePro,2999.73,6561.17
+20346,Classic Novel 0345,Accessories,PrimeTech,5484.27,9779.3
+20347,Premium T-Shirt 0346,Grocery,DailyMart,3004.67,4514.47
+20348,Premium Keyboard 0347,Home & Kitchen,DailyMart,6248.42,10519.68
+20349,Pro Phone 0348,Home & Kitchen,UrbanX,4853.0,9558.68
+20350,Classic Backpack 0349,Grocery,HomePro,1675.95,3345.91
+20351,Advanced Blender 0350,Electronics,PureCare,3377.19,6142.96
+20352,Classic Shoes 0351,Grocery,FitLife,6922.9,7978.28
+20353,Premium Blender 0352,Home & Kitchen,PureCare,4471.49,9220.41
+20354,Pro Coffee Maker 0353,Electronics,UrbanX,5708.36,12017.77
+20355,Pro Camera 0354,Grocery,DailyMart,5707.82,11787.97
+20356,Classic Shoes 0355,Books,UrbanX,3909.03,7249.97
+20357,Pro Headphones 0356,Electronics,Nova,2434.38,2868.81
+20358,Premium T-Shirt 0357,Electronics,FitLife,4811.08,10335.74
+20359,Premium Shoes 0358,Accessories,DailyMart,993.16,1212.84
+20360,Pro Headphones 0359,Fashion,PrimeTech,4819.23,6298.53
+20361,Essential Blender 0360,Accessories,UrbanX,911.64,1649.43
+20362,Premium Camera 0361,Sports,DailyMart,7224.2,11810.84
+20363,Essential Watch 0362,Accessories,Nova,5976.58,11609.48
+20364,Essential Skincare Kit 0363,Accessories,FitLife,1531.56,2779.48
+20365,Classic Blender 0364,Sports,UrbanX,6298.82,7271.35
+20366,Classic Laptop 0365,Electronics,FitLife,5834.24,10647.23
+20367,Classic Watch 0366,Accessories,Nova,5854.71,12008.78
+20368,Essential Keyboard 0367,Fashion,HomePro,2748.73,5620.48
+20369,Pro Watch 0368,Fashion,HomePro,4229.65,5563.17
+20370,Pro Coffee Maker 0369,Sports,DailyMart,4727.62,7161.07
+20371,Advanced Shoes 0370,Fashion,FitLife,3078.13,3926.17
+20372,Smart Camera 0371,Books,DailyMart,4527.15,8778.4
+20373,Pro Novel 0372,Fashion,StyleHub,2027.73,3668.04
+20374,Essential Blender 0373,Accessories,PrimeTech,7011.59,11629.81
+20375,Essential Laptop 0374,Electronics,HomePro,7686.66,11259.01
+20376,Smart Blender 0375,Beauty,StyleHub,2681.19,5299.25
+20377,Pro Coffee Maker 0376,Accessories,StyleHub,2804.94,5556.6
+20378,Pro Watch 0377,Grocery,DailyMart,1808.06,3011.76
+20379,Pro Phone 0378,Grocery,DailyMart,6931.76,8877.1
+20380,Classic Laptop 0379,Sports,Nova,1390.56,2278.61
+20381,Premium Watch 0380,Sports,PureCare,6410.98,13404.53
+20382,Premium Headphones 0381,Home & Kitchen,PrimeTech,6675.4,11770.66
+20383,Advanced Monitor 0382,Fashion,StyleHub,2598.13,5044.79
+20384,Pro Coffee Maker 0383,Sports,DailyMart,6236.65,9101.78
+20385,Premium Coffee Maker 0384,Fashion,DailyMart,3678.48,5555.69
+20386,Classic Watch 0385,Fashion,HomePro,2852.78,3631.52
+20387,Essential Camera 0386,Books,Nova,7157.69,10807.72
+20388,Pro Backpack 0387,Books,DailyMart,3682.87,4891.2
+20389,Pro Phone 0388,Beauty,DailyMart,536.31,920.27
+20390,Smart Blender 0389,Fashion,HomePro,5112.72,7993.72
+20391,Advanced Headphones 0390,Home & Kitchen,UrbanX,5298.22,10742.35
+20392,Pro Laptop 0391,Fashion,StyleHub,5113.74,7935.83
+20393,Pro Monitor 0392,Fashion,PureCare,2946.52,4045.44
+20394,Classic Monitor 0393,Accessories,HomePro,5461.06,6763.23
+20395,Classic T-Shirt 0394,Fashion,Nova,2399.65,3395.98
+20396,Pro Backpack 0395,Accessories,HomePro,3768.46,7093.11
+20397,Smart T-Shirt 0396,Sports,StyleHub,1811.98,3275.23
+20398,Classic Watch 0397,Beauty,DailyMart,4944.69,8905.11
+20399,Pro Phone 0398,Fashion,PureCare,6502.96,13338.09
+20400,Smart Camera 0399,Grocery,FitLife,871.57,1233.66
+20401,Smart Blender 0400,Grocery,HomePro,313.4,515.33
+20402,Classic Camera 0401,Accessories,DailyMart,6112.96,8109.41
+20403,Essential Keyboard 0402,Grocery,UrbanX,2650.75,3657.33
+20404,Smart Backpack 0403,Electronics,PrimeTech,2658.22,4092.24
+20405,Pro T-Shirt 0404,Accessories,PureCare,4561.44,8632.22
+20406,Pro Phone 0405,Sports,DailyMart,3945.23,7990.65
+20407,Pro Keyboard 0406,Sports,PureCare,1060.32,1561.4
+20408,Advanced Coffee Maker 0407,Fashion,FitLife,6107.44,9574.34
+20409,Essential Blender 0408,Sports,DailyMart,1492.54,3107.53
+20410,Smart T-Shirt 0409,Grocery,UrbanX,6625.62,13047.52
+20411,Classic Novel 0410,Sports,FitLife,6138.35,11508.5
+20412,Essential Laptop 0411,Electronics,HomePro,1421.09,2241.77
+20413,Classic Novel 0412,Grocery,StyleHub,6089.89,9184.24
+20414,Classic Novel 0413,Grocery,UrbanX,5321.42,10161.79
+20415,Pro Laptop 0414,Books,HomePro,7856.38,9804.71
+20416,Smart Watch 0415,Home & Kitchen,UrbanX,5723.45,9847.99
+20417,Classic Laptop 0416,Fashion,FitLife,3182.72,3863.33
+20418,Premium Backpack 0417,Beauty,DailyMart,4998.46,9019.74
+20419,Advanced Coffee Maker 0418,Grocery,Nova,5328.79,9308.5
+20420,Advanced Coffee Maker 0419,Grocery,DailyMart,5990.64,7265.34
+20421,Advanced Novel 0420,Electronics,FitLife,3802.14,6048.67
+20422,Premium Watch 0421,Electronics,Nova,6638.79,8976.12
+20423,Essential Watch 0422,Electronics,StyleHub,2366.84,4705.34
+20424,Smart Laptop 0423,Accessories,UrbanX,7710.39,16260.8
+20425,Classic Backpack 0424,Grocery,PureCare,2552.4,3778.6
+20426,Essential Keyboard 0425,Home & Kitchen,PrimeTech,396.61,468.31
+20427,Premium Blender 0426,Accessories,Nova,1681.07,3517.7
+20428,Advanced Camera 0427,Sports,PureCare,7426.78,15126.48
+20429,Advanced Phone 0428,Fashion,StyleHub,6341.41,12598.42
+20430,Smart T-Shirt 0429,Books,StyleHub,3571.03,5442.96
+20431,Essential Shoes 0430,Electronics,PureCare,7250.73,8945.17
+20432,Advanced Watch 0431,Electronics,StyleHub,2048.4,4452.43
+20433,Essential Backpack 0432,Fashion,PureCare,1945.11,3244.6
+20434,Classic Backpack 0433,Sports,StyleHub,1118.77,1705.5
+20435,Classic Skincare Kit 0434,Grocery,Nova,3595.22,7068.46
+20436,Essential Skincare Kit 0435,Sports,DailyMart,4161.59,7716.57
+20437,Premium Skincare Kit 0436,Beauty,DailyMart,1246.62,1488.41
+20438,Classic Laptop 0437,Sports,PrimeTech,1005.38,2167.92
+20439,Smart Coffee Maker 0438,Electronics,FitLife,3184.57,5521.62
+20440,Classic Novel 0439,Books,Nova,1937.69,2611.33
+20441,Smart T-Shirt 0440,Grocery,PrimeTech,4636.69,5409.94
+20442,Essential Headphones 0441,Beauty,StyleHub,4242.25,7338.45
+20443,Essential Coffee Maker 0442,Books,PrimeTech,1383.62,2454.19
+20444,Advanced Keyboard 0443,Fashion,DailyMart,204.89,257.06
+20445,Essential Blender 0444,Accessories,Nova,5193.84,8944.7
+20446,Premium Laptop 0445,Home & Kitchen,FitLife,6205.8,9949.82
+20447,Smart Shoes 0446,Home & Kitchen,StyleHub,3957.35,6369.39
+20448,Advanced Monitor 0447,Accessories,DailyMart,4646.46,10101.52
+20449,Smart Watch 0448,Sports,PureCare,7697.52,11243.61
+20450,Essential Novel 0449,Beauty,DailyMart,6164.86,12812.85
+20451,Advanced Keyboard 0450,Grocery,PureCare,2737.1,4137.8
+20452,Essential Keyboard 0451,Fashion,UrbanX,6817.38,9124.9
+20453,Advanced Watch 0452,Fashion,HomePro,4433.09,5806.81
+20454,Smart T-Shirt 0453,Electronics,FitLife,4223.28,9027.98
+20455,Premium Backpack 0454,Sports,DailyMart,5565.79,6536.78
+20456,Premium Monitor 0455,Grocery,PureCare,3492.93,4820.66
+20457,Advanced Watch 0456,Accessories,FitLife,7058.1,10640.07
+20458,Premium Shoes 0457,Sports,Nova,1421.55,2615.14
+20459,Pro Backpack 0458,Electronics,,3433.12,5302.77
+20460,Essential Monitor 0459,Home & Kitchen,FitLife,612.42,717.41
+20461,Classic Skincare Kit 0460,Fashion,PureCare,5672.61,9602.64
+20462,Premium Phone 0461,Accessories,PrimeTech,2235.33,4646.56
+20463,Classic Phone 0462,Sports,HomePro,3460.85,7201.68
+20464,Premium Novel 0463,Accessories,PureCare,7102.26,15562.29
+20465,Premium Shoes 0464,Grocery,PureCare,1571.66,2372.44
+20466,Essential Headphones 0465,Accessories,UrbanX,117.79,150.6
+20467,Smart Keyboard 0466,Fashion,PrimeTech,4667.15,5708.0
+20468,Premium Backpack 0467,Sports,PrimeTech,3556.61,7328.2
+20469,Pro Laptop 0468,Electronics,FitLife,534.19,1033.99
+20470,Pro Watch 0469,Fashion,FitLife,2440.34,4414.46
+20471,Smart Blender 0470,Fashion,PureCare,1988.94,3324.71
+20472,Premium Skincare Kit 0471,Home & Kitchen,StyleHub,2158.88,3519.42
+20473,Classic Laptop 0472,Electronics,DailyMart,6338.33,10576.45
+20474,Essential Camera 0473,Beauty,Nova,2507.52,3841.61
+20475,Premium Watch 0474,Electronics,StyleHub,3968.05,6540.98
+20476,Essential Camera 0475,Sports,UrbanX,2197.61,3012.58
+20477,Classic Laptop 0476,Fashion,StyleHub,7609.27,9691.6
+20478,Premium Backpack 0477,Home & Kitchen,DailyMart,6216.29,8527.88
+20479,Smart Novel 0478,Electronics,DailyMart,3443.93,7471.65
+20480,Classic Phone 0479,Beauty,DailyMart,5843.17,12797.83
+20481,Pro Coffee Maker 0480,Home & Kitchen,HomePro,2587.12,5016.65
+20482,Advanced Coffee Maker 0481,Sports,FitLife,749.62,1521.02
+20483,Classic Watch 0482,Accessories,HomePro,3501.13,4407.03
+20484,Premium Novel 0483,Books,Nova,4560.22,5833.33
+20485,Classic Skincare Kit 0484,Electronics,PrimeTech,2859.9,3567.12
+20486,Smart Headphones 0485,Electronics,FitLife,3272.15,3980.1
+20487,Essential Watch 0486,Accessories,Nova,5743.99,11112.95
+20488,Pro Coffee Maker 0487,Grocery,FitLife,7174.03,8675.0
+20489,Smart Phone 0488,Fashion,HomePro,7163.44,15376.27
+20490,Essential Skincare Kit 0489,Beauty,HomePro,4647.97,8537.11
+20491,Classic Skincare Kit 0490,Beauty,FitLife,5072.97,6744.11
+20492,Advanced Headphones 0491,Sports,UrbanX,4309.21,8654.61
+20493,Essential Blender 0492,Home & Kitchen,PrimeTech,3032.76,6110.64
+20494,Essential T-Shirt 0493,Accessories,UrbanX,5931.46,10333.1
+20495,Premium Phone 0494,Beauty,Nova,978.84,1219.18
+20496,Premium Headphones 0495,Home & Kitchen,Nova,7162.71,11251.31
+20497,Classic Shoes 0496,Fashion,Nova,2341.38,4041.14
+20498,Essential Keyboard 0497,Accessories,FitLife,1828.69,3531.17
+20499,Classic Skincare Kit 0498,Fashion,PrimeTech,2264.55,3314.01
+20500,Smart Blender 0499,Grocery,PrimeTech,6512.56,13460.26
+20501,Smart Monitor 0500,Grocery,PureCare,2224.27,3143.5
+20502,Smart Coffee Maker 0501,Accessories,StyleHub,4915.35,10804.47
+20503,Advanced Headphones 0502,Home & Kitchen,Nova,2810.95,3572.18
+20504,Pro Monitor 0503,Beauty,StyleHub,5285.59,10701.19
+20505,Advanced Watch 0504,Grocery,FitLife,4773.85,6152.67
+20506,Pro Headphones 0505,Home & Kitchen,StyleHub,7982.36,15543.88
+20507,Smart Shoes 0506,Electronics,PureCare,2556.55,5254.77
+20508,Smart Watch 0507,Electronics,StyleHub,2863.48,4233.84
+20509,Essential T-Shirt 0508,Electronics,PureCare,1670.26,2098.52
+20510,Pro Camera 0509,Grocery,StyleHub,3764.87,8282.35
+20511,Essential Skincare Kit 0510,Fashion,FitLife,6715.15,14569.22
+20512,Classic Laptop 0511,Home & Kitchen,UrbanX,1766.88,3435.98
+20513,Pro Laptop 0512,Books,DailyMart,7695.14,11972.21
+20514,Pro Coffee Maker 0513,Fashion,Nova,203.94,263.31
+20515,Essential Monitor 0514,Home & Kitchen,DailyMart,6460.67,10265.7
+20516,Classic Camera 0515,Accessories,StyleHub,5563.84,10606.68
+20517,Pro Headphones 0516,Sports,PrimeTech,7251.5,9499.34
+20518,Advanced Laptop 0517,Beauty,HomePro,4222.32,4930.15
+20519,Advanced Coffee Maker 0518,Accessories,Nova,5479.62,11503.02
+20520,Advanced Laptop 0519,Home & Kitchen,HomePro,490.45,924.49
+20521,Advanced Shoes 0520,Sports,Nova,3215.41,6040.25
+20522,Smart Novel 0521,Grocery,HomePro,6188.53,13271.58
+20523,Classic Coffee Maker 0522,Electronics,UrbanX,960.96,1630.5
+20524,Classic Phone 0523,Fashion,Nova,6280.94,9320.79
+20525,Smart Keyboard 0524,Electronics,FitLife,2535.36,5336.67
+20526,Pro Backpack 0525,Sports,UrbanX,2888.61,6311.91
+20527,Smart Novel 0526,Books,PrimeTech,5214.26,6108.42
+20528,Smart Phone 0527,Home & Kitchen,FitLife,717.5,1074.25
+20529,Pro T-Shirt 0528,Home & Kitchen,StyleHub,5034.55,7705.51
+20530,Smart Novel 0529,Beauty,StyleHub,7318.42,9270.9
+20531,Classic Coffee Maker 0530,Beauty,HomePro,840.74,1162.45
+20532,Pro Blender 0531,Electronics,StyleHub,2098.68,2467.38
+20533,Smart T-Shirt 0532,Books,FitLife,208.08,391.45
+20534,Premium Blender 0533,Grocery,UrbanX,4192.12,5291.51
+20535,Smart Blender 0534,Beauty,DailyMart,5874.59,12230.95
+20536,Advanced Phone 0535,Fashion,PureCare,7418.55,13080.2
+20537,Premium Monitor 0536,Home & Kitchen,HomePro,3007.43,4583.22
+20538,Essential Watch 0537,Fashion,PrimeTech,1275.13,2549.41
+20539,Smart Skincare Kit 0538,Sports,FitLife,329.77,604.54
+20540,Smart Novel 0539,Accessories,StyleHub,2667.55,5176.84
+20541,Classic Keyboard 0540,Home & Kitchen,PureCare,4146.6,8590.37
+20542,Pro Skincare Kit 0541,Grocery,HomePro,7216.11,14418.14
+20543,Premium Skincare Kit 0542,Sports,HomePro,1809.97,3562.2
+20544,Essential Blender 0543,Sports,HomePro,6272.26,12019.76
+20545,Pro Skincare Kit 0544,Fashion,PrimeTech,3899.27,6029.69
+20546,Smart Camera 0545,Accessories,PureCare,6953.53,12755.71
+20547,Premium Keyboard 0546,Electronics,PureCare,6918.21,12065.25
+20548,Premium Monitor 0547,Home & Kitchen,Nova,6875.79,14862.83
+20549,Pro Blender 0548,Fashion,Nova,3270.63,5481.52
+20550,Pro Headphones 0549,Sports,Nova,2835.05,3920.62
+20551,Pro Watch 0550,Beauty,PrimeTech,1737.58,2833.32
+20552,Essential Monitor 0551,Accessories,Nova,1904.59,3019.5
+20553,Advanced T-Shirt 0552,Home & Kitchen,StyleHub,4968.21,8157.51
+20554,Essential Shoes 0553,Sports,DailyMart,7699.34,13551.47
+20555,Smart Coffee Maker 0554,Beauty,FitLife,4887.07,10484.84
+20556,Advanced Shoes 0555,Fashion,DailyMart,3357.31,4851.76
+20557,Pro T-Shirt 0556,Electronics,UrbanX,2015.13,4367.97
+20558,Advanced Coffee Maker 0557,Grocery,FitLife,5250.56,10336.05
+20559,Classic Blender 0558,Home & Kitchen,FitLife,1766.47,2370.72
+20560,Pro Coffee Maker 0559,Home & Kitchen,HomePro,837.67,1209.98
+20561,Advanced Blender 0560,Sports,FitLife,838.97,1765.86
+20562,Advanced Watch 0561,Home & Kitchen,Nova,6818.63,13578.69
+20563,Pro Monitor 0562,Books,StyleHub,3119.82,4057.42
+20564,Advanced Phone 0563,Books,PureCare,7528.69,13279.08
+20565,Premium Shoes 0564,Home & Kitchen,HomePro,4024.26,5798.33
+20566,Premium Headphones 0565,Electronics,UrbanX,5562.9,10075.74
+20567,Advanced Skincare Kit 0566,Electronics,Nova,6632.92,8836.78
+20568,Premium Novel 0567,Electronics,PrimeTech,7008.46,10649.41
+20569,Advanced Monitor 0568,Beauty,PureCare,1384.14,2156.43
+20570,Advanced T-Shirt 0569,Beauty,PureCare,1811.72,3106.36
+20571,Essential T-Shirt 0570,Grocery,StyleHub,1285.72,1801.66
+20572,Essential Novel 0571,Beauty,PrimeTech,3619.85,6928.88
+20573,Smart T-Shirt 0572,Books,PrimeTech,1324.77,2649.18
+20574,Premium Shoes 0573,Beauty,PureCare,5241.84,9550.58
+20575,Essential Keyboard 0574,Beauty,StyleHub,2966.33,6224.06
+20576,Advanced Phone 0575,Books,PureCare,7716.17,15278.17
+20577,Essential Phone 0576,Sports,PrimeTech,6551.04,7836.45
+20578,Pro Shoes 0577,Sports,PureCare,5821.81,7212.97
+20579,Pro Phone 0578,Beauty,HomePro,5540.83,10211.57
+20580,Premium Coffee Maker 0579,Books,FitLife,412.88,787.76
+20581,Pro Camera 0580,Fashion,PureCare,761.12,1648.81
+20582,Classic T-Shirt 0581,Electronics,PrimeTech,3513.68,4053.03
+20583,Essential Camera 0582,Beauty,PureCare,7326.13,10247.85
+20584,Premium Novel 0583,Fashion,FitLife,842.82,1705.31
+20585,Smart Backpack 0584,Accessories,HomePro,3419.1,7132.62
+20586,Pro Coffee Maker 0585,Accessories,PureCare,6371.93,10435.02
+20587,Smart Laptop 0586,Home & Kitchen,HomePro,2626.36,4354.36
+20588,Classic Novel 0587,Beauty,FitLife,7442.12,15228.81
+20589,Pro Coffee Maker 0588,Beauty,Nova,7484.13,12221.34
+20590,Smart Monitor 0589,Home & Kitchen,PureCare,550.09,1087.42
+20591,Essential Monitor 0590,Electronics,DailyMart,4969.58,10665.55
+20592,Advanced Backpack 0591,Accessories,DailyMart,1250.02,1781.2
+20593,Smart Camera 0592,Books,PureCare,3583.98,5154.19
+20594,Classic Phone 0593,Beauty,FitLife,7192.66,15360.16
+20595,Smart Watch 0594,Home & Kitchen,FitLife,679.6,1084.31
+20596,Essential Laptop 0595,Beauty,DailyMart,7505.15,8754.86
+20597,Essential Keyboard 0596,Fashion,FitLife,7956.24,13347.5
+20598,Premium Coffee Maker 0597,Home & Kitchen,PrimeTech,5394.94,9697.93
+20599,Essential Novel 0598,Accessories,UrbanX,2914.55,4100.7
+20600,Essential Monitor 0599,Books,DailyMart,2083.0,3986.41
+20601,Classic Blender 0600,Fashion,UrbanX,3517.6,4905.61
+20602,Pro Headphones 0601,Home & Kitchen,DailyMart,1520.63,1939.76
+20603,Premium Keyboard 0602,Grocery,DailyMart,258.45,364.89
+20604,Smart Backpack 0603,Sports,Nova,595.64,1018.9
+20605,Premium Camera 0604,Grocery,PureCare,5342.17,10943.85
+20606,Pro T-Shirt 0605,Grocery,StyleHub,263.97,450.28
+20607,Classic Watch 0606,Beauty,HomePro,2481.55,5065.92
+20608,Essential Backpack 0607,Books,StyleHub,5443.48,6626.87
+20609,Premium Laptop 0608,Beauty,HomePro,1480.75,2282.16
+20610,Advanced Novel 0609,Electronics,PureCare,2724.99,4378.89
+20611,Smart Shoes 0610,Electronics,HomePro,348.39,693.93
+20612,Advanced Skincare Kit 0611,Electronics,UrbanX,988.14,1769.94
+20613,Classic Watch 0612,Accessories,HomePro,1884.81,3721.16
+20614,Classic Monitor 0613,Grocery,StyleHub,1096.8,1651.22
+20615,Smart T-Shirt 0614,Beauty,HomePro,3829.27,8159.16
+20616,Smart Shoes 0615,Accessories,StyleHub,1102.89,2210.57
+20617,Classic Monitor 0616,Books,DailyMart,2510.94,5301.25
+20618,Premium Headphones 0617,Home & Kitchen,HomePro,5816.19,8293.51
+20619,Classic Phone 0618,Home & Kitchen,PureCare,5265.44,6091.58
+20620,Classic Watch 0619,Beauty,DailyMart,3125.69,5614.54
+20621,Pro Backpack 0620,Grocery,PureCare,7455.6,12430.03
+20622,Pro Coffee Maker 0621,Books,StyleHub,6319.06,12435.29
+20623,Classic Monitor 0622,Beauty,DailyMart,4896.69,6132.46
+20624,Smart T-Shirt 0623,Grocery,HomePro,3550.55,6303.0
+20625,Pro Phone 0624,Fashion,PrimeTech,574.29,780.37
+20626,Advanced Novel 0625,Accessories,PureCare,3361.54,5682.11
+20627,Classic Skincare Kit 0626,Books,DailyMart,4407.6,5801.45
+20628,Advanced Phone 0627,Books,UrbanX,7929.04,16714.1
+20629,Premium Monitor 0628,Electronics,PrimeTech,7617.69,10226.3
+20630,Smart Monitor 0629,Home & Kitchen,PrimeTech,986.47,1730.1
+20631,Essential T-Shirt 0630,Accessories,PureCare,7836.2,9057.79
+20632,Essential Coffee Maker 0631,Grocery,PrimeTech,6061.48,7966.36
+20633,Pro Phone 0632,Fashion,FitLife,5487.29,9187.37
+20634,Smart T-Shirt 0633,Grocery,DailyMart,7238.13,8635.16
+20635,Smart Coffee Maker 0634,Fashion,DailyMart,2667.94,4588.65
+20636,Advanced Novel 0635,Fashion,DailyMart,3254.49,4372.57
+20637,Premium Headphones 0636,Fashion,StyleHub,6980.48,13352.72
+20638,Essential Watch 0637,Beauty,StyleHub,921.53,1899.92
+20639,Classic Phone 0638,Grocery,FitLife,5702.36,11099.49
+20640,Classic Laptop 0639,Home & Kitchen,PrimeTech,6497.6,7904.72
+20641,Premium T-Shirt 0640,Accessories,,7092.0,11851.89
+20642,Essential Coffee Maker 0641,Fashion,HomePro,1831.47,2319.99
+20643,Advanced T-Shirt 0642,Accessories,PureCare,5466.05,8633.68
+20644,Classic Shoes 0643,Grocery,StyleHub,777.17,1578.84
+20645,Essential Skincare Kit 0644,Sports,HomePro,6901.6,8235.12
+20646,Classic Camera 0645,Electronics,StyleHub,3906.22,5524.31
+20647,Smart Camera 0646,Sports,UrbanX,5030.9,10151.85
+20648,Advanced Watch 0647,Grocery,PrimeTech,6825.87,10759.1
+20649,Pro Coffee Maker 0648,Accessories,PureCare,4097.59,5724.84
+20650,Advanced Monitor 0649,Electronics,UrbanX,4118.4,8841.71
+20651,Premium Monitor 0650,Books,FitLife,3770.78,4952.98
+20652,Premium Laptop 0651,Fashion,DailyMart,4845.48,9584.55
+20653,Classic Watch 0652,Books,FitLife,5766.85,7710.17
+20654,Premium Skincare Kit 0653,Sports,FitLife,6460.83,13963.18
+20655,Advanced Novel 0654,Grocery,FitLife,335.45,662.64
+20656,Advanced T-Shirt 0655,Electronics,UrbanX,2849.81,4104.44
+20657,Essential Headphones 0656,Sports,UrbanX,3516.97,7676.82
+20658,Pro Phone 0657,Books,DailyMart,879.68,1117.35
+20659,Essential T-Shirt 0658,Beauty,HomePro,6037.81,12393.07
+20660,Premium Blender 0659,Fashion,HomePro,4230.72,7972.37
+20661,Premium Blender 0660,Fashion,UrbanX,114.87,153.07
+20662,Classic T-Shirt 0661,Books,FitLife,5087.84,8769.86
+20663,Smart Keyboard 0662,Home & Kitchen,Nova,2778.27,3229.8
+20664,Pro Keyboard 0663,Accessories,UrbanX,5842.15,10234.19
+20665,Advanced Headphones 0664,Home & Kitchen,UrbanX,1519.59,2676.47
+20666,Premium Skincare Kit 0665,Beauty,DailyMart,109.56,172.99
+20667,Premium Camera 0666,Accessories,DailyMart,785.91,1584.11
+20668,Pro Skincare Kit 0667,Electronics,Nova,3579.16,7613.89
+20669,Premium Skincare Kit 0668,Fashion,UrbanX,6009.28,10278.57
+20670,Essential Laptop 0669,Grocery,DailyMart,4870.92,9048.47
+20671,Classic Backpack 0670,Fashion,FitLife,218.24,284.4
+20672,Classic Camera 0671,Fashion,FitLife,4773.71,10492.63
+20673,Premium Blender 0672,Electronics,StyleHub,3909.17,8016.97
+20674,Premium Phone 0673,Home & Kitchen,UrbanX,6392.71,13721.82
+20675,Pro T-Shirt 0674,Home & Kitchen,FitLife,2127.66,4185.04
+20676,Essential Backpack 0675,Accessories,UrbanX,5779.56,8606.11
+20677,Classic Camera 0676,Sports,Nova,5091.04,7039.71
+20678,Premium Novel 0677,Home & Kitchen,PureCare,5021.63,8469.48
+20679,Premium Keyboard 0678,Grocery,HomePro,3303.89,4086.02
+20680,Classic Watch 0679,Sports,Nova,201.5,348.48
+20681,Classic Phone 0680,Fashion,,1582.37,2434.34
+20682,Smart Headphones 0681,Fashion,Nova,6769.57,12959.2
+20683,Advanced Headphones 0682,Home & Kitchen,HomePro,4973.07,8986.22
+20684,Premium Shoes 0683,Books,FitLife,4667.31,6575.52
+20685,Classic Skincare Kit 0684,Books,PrimeTech,4252.96,8166.17
+20686,Classic Blender 0685,Books,Nova,707.76,1045.13
+20687,Pro Headphones 0686,Beauty,DailyMart,2846.59,4016.6
+20688,Premium Novel 0687,Sports,StyleHub,4991.28,7933.55
+20689,Advanced Laptop 0688,Accessories,Nova,1091.85,1436.6
+20690,Advanced T-Shirt 0689,Sports,StyleHub,7375.85,11000.48
+20691,Essential Blender 0690,Sports,DailyMart,673.92,958.88
+20692,Classic Skincare Kit 0691,Home & Kitchen,Nova,5470.31,6415.67
+20693,Premium Backpack 0692,Beauty,PureCare,2479.81,3635.2
+20694,Classic Blender 0693,Electronics,,6923.03,11354.98
+20695,Smart Watch 0694,Beauty,FitLife,6632.01,13404.79
+20696,Essential Coffee Maker 0695,Grocery,Nova,2732.37,3660.01
+20697,Essential Phone 0696,Books,DailyMart,3750.69,5602.63
+20698,Pro Camera 0697,Accessories,DailyMart,7676.98,9065.3
+20699,Pro Monitor 0698,Fashion,StyleHub,4902.42,6024.41
+20700,Smart Blender 0699,Grocery,UrbanX,147.42,224.66
+20701,Advanced Blender 0700,Books,UrbanX,6240.21,10451.88
+20702,Pro T-Shirt 0701,Books,FitLife,2954.38,5718.72
+20703,Premium Watch 0702,Grocery,PureCare,2279.14,4447.37
+20704,Classic Laptop 0703,Beauty,FitLife,6673.91,14079.8
+20705,Classic T-Shirt 0704,Fashion,HomePro,7743.46,16285.94
+20706,Essential Laptop 0705,Sports,PureCare,590.12,741.53
+20707,Advanced Monitor 0706,Beauty,FitLife,3183.81,4035.97
+20708,Advanced Phone 0707,Books,PrimeTech,2309.75,3861.05
+20709,Advanced Laptop 0708,Grocery,PureCare,7192.26,12722.73
+20710,Premium Backpack 0709,Electronics,UrbanX,6954.79,12364.12
+20711,Essential T-Shirt 0710,Sports,PureCare,7218.83,11987.52
+20712,Pro Laptop 0711,Beauty,StyleHub,437.01,952.8
+20713,Advanced Shoes 0712,Electronics,FitLife,495.87,835.25
+20714,Essential Shoes 0713,Home & Kitchen,FitLife,4456.06,9500.66
+20715,Pro Phone 0714,Grocery,Nova,1418.52,3103.16
+20716,Advanced Phone 0715,Fashion,PureCare,990.0,1600.06
+20717,Advanced T-Shirt 0716,Electronics,PureCare,2156.83,2783.29
+20718,Premium Novel 0717,Books,Nova,5704.26,8511.98
+20719,Classic Backpack 0718,Home & Kitchen,UrbanX,5406.07,8252.19
+20720,Smart Shoes 0719,Fashion,PureCare,6303.02,13127.58
+20721,Advanced Laptop 0720,Home & Kitchen,PrimeTech,595.75,1286.69
+20722,Classic Watch 0721,Books,Nova,6154.66,8174.23
+20723,Classic Backpack 0722,Accessories,PureCare,3975.88,4656.06
+20724,Pro T-Shirt 0723,Accessories,StyleHub,2572.66,5202.42
+20725,Essential Shoes 0724,Electronics,HomePro,4921.25,8546.14
+20726,Advanced Watch 0725,Accessories,StyleHub,6416.29,12439.46
+20727,Smart Novel 0726,Books,HomePro,920.61,1379.31
+20728,Advanced Backpack 0727,Grocery,UrbanX,6477.61,8527.42
+20729,Smart Keyboard 0728,Electronics,StyleHub,4598.58,6566.28
+20730,Classic Keyboard 0729,Grocery,DailyMart,4998.43,6002.63
+20731,Classic Laptop 0730,Fashion,DailyMart,7043.72,10953.96
+20732,Classic Monitor 0731,Beauty,FitLife,5708.9,7160.04
+20733,Advanced Watch 0732,Accessories,UrbanX,4709.84,7709.82
+20734,Essential Phone 0733,Books,UrbanX,2754.58,5479.37
+20735,Smart Novel 0734,Sports,PrimeTech,4131.45,4957.79
+20736,Premium Keyboard 0735,Books,Nova,6708.88,14031.95
+20737,Advanced Laptop 0736,Fashion,UrbanX,7965.3,10190.09
+20738,Pro Backpack 0737,Accessories,PureCare,6073.6,11168.01
+20739,Pro T-Shirt 0738,Electronics,HomePro,6342.28,8895.44
+20740,Premium Novel 0739,Sports,PureCare,5625.4,11459.86
+20741,Smart Blender 0740,Electronics,Nova,6158.91,7149.69
+20742,Classic Blender 0741,Beauty,Nova,2021.12,3218.55
+20743,Essential Skincare Kit 0742,Sports,FitLife,3448.28,7448.28
+20744,Classic Novel 0743,Grocery,PrimeTech,4492.37,5698.75
+20745,Pro Laptop 0744,Accessories,UrbanX,4440.77,8653.62
+20746,Pro Backpack 0745,Books,FitLife,4818.42,9217.39
+20747,Premium Blender 0746,Accessories,DailyMart,7790.92,11570.56
+20748,Pro Keyboard 0747,Electronics,,6856.64,8320.38
+20749,Classic Keyboard 0748,Sports,PureCare,6639.88,13444.1
+20750,Smart Skincare Kit 0749,Sports,PrimeTech,6659.92,13986.65
+20751,Advanced Skincare Kit 0750,Electronics,PureCare,6367.33,8177.07
+20752,Essential Watch 0751,Sports,HomePro,5465.71,11151.25
+20753,Essential Monitor 0752,Electronics,UrbanX,2126.69,4306.3
+20754,Advanced T-Shirt 0753,Books,StyleHub,6860.56,12046.28
+20755,Smart Monitor 0754,Home & Kitchen,PrimeTech,2309.87,4556.7
+20756,Classic T-Shirt 0755,Accessories,UrbanX,5826.62,6942.14
+20757,Premium T-Shirt 0756,Fashion,UrbanX,976.77,1632.17
+20758,Smart Headphones 0757,Sports,HomePro,4423.5,9578.39
+20759,Pro Blender 0758,Sports,Nova,2618.52,5142.71
+20760,Premium Blender 0759,Grocery,,5665.21,8109.98
+20761,Essential Camera 0760,Fashion,StyleHub,6856.77,12374.47
+20762,Pro Monitor 0761,Fashion,Nova,222.66,305.75
+20763,Smart Backpack 0762,Books,PureCare,1003.14,1387.58
+20764,Advanced Headphones 0763,Electronics,DailyMart,7411.58,9996.84
+20765,Smart Shoes 0764,Sports,UrbanX,1990.24,2685.79
+20766,Essential Headphones 0765,Beauty,Nova,5873.24,9833.31
+20767,Classic Watch 0766,Accessories,UrbanX,6519.12,9617.58
+20768,Premium Phone 0767,Sports,Nova,5950.35,11703.49
+20769,Classic Phone 0768,Grocery,PrimeTech,353.65,738.71
+20770,Advanced Camera 0769,Grocery,DailyMart,5909.85,9822.0
+20771,Premium Skincare Kit 0770,Home & Kitchen,PureCare,7696.41,10396.93
+20772,Essential Skincare Kit 0771,Books,DailyMart,3013.47,6623.3
+20773,Pro Phone 0772,Books,PureCare,5711.02,6849.71
+20774,Essential Coffee Maker 0773,Beauty,PureCare,2284.11,3944.95
+20775,Classic Phone 0774,Home & Kitchen,StyleHub,7979.9,11017.3
+20776,Smart Novel 0775,Beauty,UrbanX,1745.89,3726.67
+20777,Pro T-Shirt 0776,Electronics,PureCare,2513.97,3748.86
+20778,Classic T-Shirt 0777,Accessories,FitLife,1426.45,3075.35
+20779,Smart Blender 0778,Electronics,DailyMart,7645.9,16602.62
+20780,Pro Shoes 0779,Home & Kitchen,FitLife,4614.27,9875.11
+20781,Classic Monitor 0780,Home & Kitchen,StyleHub,2051.18,4066.18
+20782,Pro Skincare Kit 0781,Home & Kitchen,PureCare,1162.59,2241.79
+20783,Pro Monitor 0782,Home & Kitchen,FitLife,7010.97,15076.46
+20784,Advanced Watch 0783,Books,Nova,595.01,824.0
+20785,Classic T-Shirt 0784,Electronics,StyleHub,5181.78,10365.62
+20786,Classic Coffee Maker 0785,Books,HomePro,4920.02,6244.3
+20787,Advanced Keyboard 0786,Beauty,UrbanX,6197.18,9481.51
+20788,Essential Coffee Maker 0787,Beauty,PrimeTech,5486.59,8624.5
+20789,Smart Camera 0788,Sports,PureCare,6708.15,14725.01
+20790,Pro Headphones 0789,Electronics,FitLife,400.45,595.48
+20791,Pro Novel 0790,Sports,Nova,3499.3,6062.43
+20792,Pro Novel 0791,Sports,PrimeTech,739.63,1342.55
+20793,Premium Camera 0792,Books,FitLife,3301.22,6145.98
+20794,Advanced Shoes 0793,Home & Kitchen,StyleHub,4530.52,5781.66
+20795,Classic Skincare Kit 0794,Electronics,PureCare,4790.82,8322.05
+20796,Pro Headphones 0795,Electronics,FitLife,7405.67,13452.09
+20797,Premium Keyboard 0796,Accessories,Nova,7381.6,15490.41
+20798,Pro T-Shirt 0797,Fashion,PureCare,2547.31,5489.86
+20799,Advanced Headphones 0798,Home & Kitchen,StyleHub,5622.64,7853.58
+20800,Classic Monitor 0799,Home & Kitchen,DailyMart,5730.39,7856.62
+20801,Smart Headphones 0800,Fashion,UrbanX,7661.5,14311.17
+20802,Premium Blender 0801,Beauty,FitLife,763.08,1269.73
+20803,Classic Coffee Maker 0802,Accessories,Nova,4975.5,9606.42
+20804,Advanced Phone 0803,Grocery,UrbanX,3317.38,6770.43
+20805,Advanced Phone 0804,Grocery,DailyMart,2843.89,3302.38
+20806,Essential Coffee Maker 0805,Electronics,DailyMart,4978.2,10318.15
+20807,Classic Headphones 0806,Sports,DailyMart,2308.34,3297.94
+20808,Premium Backpack 0807,Beauty,UrbanX,383.35,831.05
+20809,Advanced Camera 0808,Home & Kitchen,DailyMart,6244.56,10002.38
+20810,Classic Laptop 0809,Beauty,Nova,785.7,1606.81
+20811,Pro Headphones 0810,Sports,HomePro,2692.77,3661.98
+20812,Essential Monitor 0811,Electronics,HomePro,4799.91,8166.64
+20813,Essential Blender 0812,Accessories,PureCare,5027.51,6115.73
+20814,Pro Watch 0813,Books,FitLife,5363.49,10306.4
+20815,Essential Novel 0814,Accessories,PrimeTech,7956.58,17020.75
+20816,Smart Backpack 0815,Electronics,UrbanX,3270.96,6657.32
+20817,Essential Camera 0816,Electronics,PrimeTech,1186.21,2211.54
+20818,Smart Coffee Maker 0817,Accessories,PrimeTech,1189.8,1516.86
+20819,Advanced Keyboard 0818,Accessories,FitLife,4130.96,9018.54
+20820,Classic Blender 0819,Books,Nova,3131.54,4732.26
+20821,Advanced Blender 0820,Home & Kitchen,HomePro,7313.99,13270.59
+20822,Essential Monitor 0821,Fashion,StyleHub,4136.36,5942.42
+20823,Essential Skincare Kit 0822,Grocery,FitLife,3670.44,7409.47
+20824,Classic Backpack 0823,Accessories,FitLife,6912.62,10696.18
+20825,Essential Watch 0824,Books,PrimeTech,6389.26,9968.6
+20826,Smart Headphones 0825,Beauty,StyleHub,5739.64,6627.59
+20827,Pro Coffee Maker 0826,Grocery,Nova,4266.1,7483.17
+20828,Classic Novel 0827,Fashion,HomePro,1953.91,2761.4
+20829,Smart Watch 0828,Home & Kitchen,DailyMart,4583.05,9706.63
+20830,Classic Watch 0829,Beauty,PureCare,1014.54,2000.98
+20831,Advanced T-Shirt 0830,Beauty,StyleHub,4340.82,9331.35
+20832,Smart Watch 0831,Sports,HomePro,6826.39,10643.93
+20833,Premium Keyboard 0832,Books,DailyMart,4168.6,7690.3
+20834,Essential Monitor 0833,Books,HomePro,640.96,1041.17
+20835,Pro T-Shirt 0834,Home & Kitchen,PureCare,347.41,731.23
+20836,Premium Watch 0835,Books,StyleHub,6897.86,10281.08
+20837,Classic Keyboard 0836,Electronics,Nova,1871.84,2798.31
+20838,Smart Backpack 0837,Accessories,,4253.02,6525.16
+20839,Premium Coffee Maker 0838,Beauty,DailyMart,6236.63,10431.88
+20840,Classic Laptop 0839,Accessories,PureCare,2100.37,4373.19
+20841,Smart Blender 0840,Grocery,StyleHub,5925.82,8105.58
+20842,Classic Blender 0841,Home & Kitchen,Nova,694.81,1274.19
+20843,Premium T-Shirt 0842,Electronics,Nova,6014.04,8848.19
+20844,Essential Shoes 0843,Accessories,PureCare,605.52,748.9
+20845,Classic Phone 0844,Beauty,HomePro,2289.4,4925.28
+20846,Premium Monitor 0845,Electronics,HomePro,2127.96,4202.87
+20847,Premium Backpack 0846,Sports,FitLife,7142.18,15352.97
+20848,Advanced Backpack 0847,Accessories,DailyMart,4322.39,6787.38
+20849,Essential Phone 0848,Sports,HomePro,6760.3,13147.63
+20850,Advanced T-Shirt 0849,Fashion,StyleHub,4700.01,8618.42
+20851,Advanced Skincare Kit 0850,Fashion,StyleHub,6474.55,11653.98
+20852,Advanced Novel 0851,Fashion,HomePro,4455.6,5312.34
+20853,Classic T-Shirt 0852,Sports,FitLife,3654.32,4477.7
+20854,Smart Monitor 0853,Beauty,UrbanX,5298.02,7178.95
+20855,Advanced Camera 0854,Fashion,PrimeTech,2362.95,4577.36
+20856,Smart Headphones 0855,Home & Kitchen,HomePro,7358.02,14629.65
+20857,Pro Novel 0856,Electronics,StyleHub,7274.28,13308.89
+20858,Pro Novel 0857,Grocery,HomePro,674.59,911.82
+20859,Premium Laptop 0858,Grocery,HomePro,7342.62,14439.25
+20860,Smart T-Shirt 0859,Electronics,DailyMart,1536.73,1950.33
+20861,Pro Backpack 0860,Home & Kitchen,PureCare,5482.06,11450.51
+20862,Pro Camera 0861,Beauty,DailyMart,6602.52,10260.4
+20863,Premium Blender 0862,Sports,StyleHub,2005.78,3837.94
+20864,Essential T-Shirt 0863,Accessories,HomePro,989.98,1314.66
+20865,Classic Headphones 0864,Books,,6073.81,8989.22
+20866,Advanced Watch 0865,Books,PureCare,3595.19,6004.1
+20867,Premium Blender 0866,Books,FitLife,3944.8,6592.44
+20868,Premium Coffee Maker 0867,Sports,PureCare,6118.7,7660.98
+20869,Essential Camera 0868,Accessories,PureCare,2104.99,3632.65
+20870,Pro Watch 0869,Accessories,DailyMart,867.5,1066.05
+20871,Classic Coffee Maker 0870,Beauty,StyleHub,7666.14,16251.17
+20872,Essential Novel 0871,Electronics,PrimeTech,5627.31,8963.49
+20873,Advanced Headphones 0872,Accessories,DailyMart,5251.86,8460.92
+20874,Advanced Headphones 0873,Fashion,UrbanX,2730.24,4793.87
+20875,Smart Novel 0874,Fashion,PrimeTech,7966.08,15699.22
+20876,Premium Camera 0875,Home & Kitchen,DailyMart,1858.1,2272.48
+20877,Classic Laptop 0876,Grocery,,1506.98,2845.37
+20878,Smart Camera 0877,Home & Kitchen,StyleHub,2614.44,5506.16
+20879,Premium Coffee Maker 0878,Accessories,StyleHub,5937.74,9566.63
+20880,Classic Keyboard 0879,Home & Kitchen,HomePro,1972.38,2295.71
+20881,Smart Blender 0880,Electronics,DailyMart,2570.82,3624.18
+20882,Premium Headphones 0881,Books,HomePro,4284.06,9159.74
+20883,Essential Backpack 0882,Home & Kitchen,HomePro,5234.58,6668.44
+20884,Advanced Coffee Maker 0883,Fashion,Nova,1278.81,1488.91
+20885,Premium Novel 0884,Electronics,Nova,5271.65,11242.6
+20886,Essential Shoes 0885,Books,UrbanX,3110.34,6395.41
+20887,Advanced Keyboard 0886,Home & Kitchen,PrimeTech,2834.63,4630.12
+20888,Smart Phone 0887,Books,PrimeTech,724.24,836.98
+20889,Classic Watch 0888,Fashion,FitLife,7794.29,13741.01
+20890,Pro Shoes 0889,Beauty,StyleHub,5575.65,11193.67
+20891,Smart T-Shirt 0890,Beauty,Nova,889.06,1289.47
+20892,Advanced Keyboard 0891,Sports,StyleHub,2993.27,3985.16
+20893,Classic Camera 0892,Grocery,Nova,732.54,1538.25
+20894,Smart Watch 0893,Home & Kitchen,StyleHub,4378.1,8564.98
+20895,Pro T-Shirt 0894,Home & Kitchen,Nova,5631.16,9125.21
+20896,Essential Headphones 0895,Grocery,Nova,546.76,1148.34
+20897,Advanced Phone 0896,Grocery,PureCare,7385.13,13208.78
+20898,Premium Monitor 0897,Beauty,Nova,3055.67,6543.08
+20899,Smart Monitor 0898,Electronics,DailyMart,1954.87,2459.85
+20900,Premium Shoes 0899,Grocery,HomePro,1125.86,1810.65
+20901,Essential Headphones 0900,Sports,PureCare,1250.45,2329.81
+20902,Pro Keyboard 0901,Sports,UrbanX,6813.39,10753.52
+20903,Classic Headphones 0902,Beauty,HomePro,3892.39,5905.75
+20904,Essential Skincare Kit 0903,Books,DailyMart,6407.75,12047.82
+20905,Advanced Novel 0904,Fashion,Nova,1893.92,3382.49
+20906,Essential Skincare Kit 0905,Fashion,HomePro,2611.83,3778.45
+20907,Essential Watch 0906,Grocery,Nova,3359.66,5429.89
+20908,Advanced Monitor 0907,Fashion,PrimeTech,3690.69,6983.69
+20909,Smart Coffee Maker 0908,Accessories,DailyMart,871.67,1576.2
+20910,Smart Novel 0909,Beauty,StyleHub,455.52,740.53
+20911,Advanced Watch 0910,Sports,PrimeTech,7967.58,11337.91
+20912,Smart Coffee Maker 0911,Books,,5365.69,6816.13
+20913,Essential Camera 0912,Books,PrimeTech,532.68,1082.5
+20914,Advanced Phone 0913,Sports,Nova,6203.26,12476.8
+20915,Pro Headphones 0914,Fashion,StyleHub,2952.8,5297.23
+20916,Smart Backpack 0915,Grocery,FitLife,6392.04,11185.49
+20917,Pro Headphones 0916,Books,UrbanX,7603.44,9832.36
+20918,Pro Keyboard 0917,Electronics,UrbanX,309.93,501.8
+20919,Premium Laptop 0918,Books,StyleHub,7717.91,12796.75
+20920,Essential Watch 0919,Accessories,HomePro,1409.51,2303.82
+20921,Smart T-Shirt 0920,Sports,DailyMart,2448.14,3437.67
+20922,Classic Phone 0921,Accessories,PrimeTech,5052.87,6467.69
+20923,Smart Skincare Kit 0922,Beauty,HomePro,5755.84,12248.12
+20924,Smart Coffee Maker 0923,Home & Kitchen,StyleHub,1444.83,2505.57
+20925,Pro Phone 0924,Beauty,DailyMart,1180.93,2427.64
+20926,Classic Backpack 0925,Electronics,FitLife,2363.71,4386.06
+20927,Premium Laptop 0926,Electronics,FitLife,2672.23,5374.72
+20928,Premium Novel 0927,Sports,PureCare,2613.95,3598.88
+20929,Smart Watch 0928,Electronics,PureCare,1453.36,1833.18
+20930,Premium Coffee Maker 0929,Electronics,StyleHub,7769.38,13942.65
+20931,Advanced Novel 0930,Beauty,,6404.77,11059.85
+20932,Smart Skincare Kit 0931,Home & Kitchen,UrbanX,7842.16,9812.79
+20933,Classic T-Shirt 0932,Home & Kitchen,StyleHub,918.9,1646.54
+20934,Pro Phone 0933,Sports,FitLife,697.07,934.77
+20935,Premium Keyboard 0934,Fashion,PrimeTech,4334.2,5476.59
+20936,Essential Keyboard 0935,Sports,HomePro,4954.3,10822.62
+20937,Smart Novel 0936,Beauty,HomePro,5117.74,8871.61
+20938,Smart Skincare Kit 0937,Home & Kitchen,StyleHub,836.73,1251.96
+20939,Smart Phone 0938,Books,PureCare,6765.99,8477.51
+20940,Essential Monitor 0939,Accessories,HomePro,3968.74,8384.2
+20941,Essential Skincare Kit 0940,Books,StyleHub,3008.3,6436.88
+20942,Pro Keyboard 0941,Home & Kitchen,HomePro,4085.06,5799.98
+20943,Pro T-Shirt 0942,Sports,PrimeTech,419.64,674.27
+20944,Essential Blender 0943,Home & Kitchen,FitLife,1799.1,3288.44
+20945,Pro Coffee Maker 0944,Electronics,StyleHub,7988.07,10118.61
+20946,Pro Phone 0945,Home & Kitchen,StyleHub,4465.22,7652.52
+20947,Advanced Laptop 0946,Grocery,PrimeTech,720.47,993.94
+20948,Smart Backpack 0947,Accessories,PureCare,2413.4,3346.24
+20949,Premium Shoes 0948,Sports,PureCare,1559.72,2781.32
+20950,Smart Blender 0949,Accessories,FitLife,7405.13,10926.85
+20951,Advanced Shoes 0950,Beauty,PureCare,6469.06,11177.7
+20952,Classic Novel 0951,Electronics,HomePro,4420.54,6301.15
+20953,Essential Coffee Maker 0952,Accessories,FitLife,7619.08,12663.47
+20954,Pro Keyboard 0953,Books,,3045.67,6483.75
+20955,Advanced Watch 0954,Books,PureCare,6933.24,11501.98
+20956,Advanced Coffee Maker 0955,Electronics,Nova,3793.58,6359.63
+20957,Premium Keyboard 0956,Accessories,StyleHub,6804.19,11345.87
+20958,Pro Monitor 0957,Electronics,UrbanX,7215.44,14787.25
+20959,Pro Headphones 0958,Electronics,StyleHub,3757.42,7010.69
+20960,Classic Novel 0959,Electronics,PrimeTech,1506.21,1780.58
+20961,Advanced Laptop 0960,Accessories,DailyMart,1619.75,2063.32
+20962,Smart Shoes 0961,Grocery,Nova,2382.02,4184.69
+20963,Pro Laptop 0962,Electronics,PureCare,1861.24,3626.05
+20964,Advanced Novel 0963,Beauty,FitLife,3167.2,4031.39
+20965,Advanced Laptop 0964,Sports,DailyMart,4102.78,6884.15
+20966,Smart Camera 0965,Sports,PrimeTech,788.2,1438.17
+20967,Essential Novel 0966,Home & Kitchen,FitLife,7286.18,11445.44
+20968,Classic Backpack 0967,Electronics,Nova,119.21,223.9
+20969,Smart Watch 0968,Electronics,FitLife,1192.49,1800.37
+20970,Essential T-Shirt 0969,Accessories,HomePro,166.44,300.29
+20971,Classic T-Shirt 0970,Sports,FitLife,7893.57,15424.0
+20972,Smart T-Shirt 0971,Accessories,PureCare,3344.14,7201.97
+20973,Premium Keyboard 0972,Grocery,HomePro,1648.6,3001.84
+20974,Advanced Shoes 0973,Home & Kitchen,PrimeTech,1037.51,1576.14
+20975,Essential Phone 0974,Electronics,FitLife,3026.25,5771.97
+20976,Advanced Camera 0975,Books,DailyMart,7809.6,15577.84
+20977,Classic T-Shirt 0976,Home & Kitchen,PrimeTech,4434.93,7031.0
+20978,Advanced Shoes 0977,Books,PureCare,2898.32,4436.45
+20979,Advanced Headphones 0978,Accessories,HomePro,2979.87,3903.9
+20980,Essential Keyboard 0979,Accessories,DailyMart,1026.96,1910.91
+20981,Pro Skincare Kit 0980,Fashion,FitLife,4184.36,6766.58
+20982,Classic Watch 0981,Beauty,FitLife,3451.12,4450.41
+20983,Pro T-Shirt 0982,Books,FitLife,5857.92,10190.03
+20984,Classic Skincare Kit 0983,Home & Kitchen,PureCare,1616.39,3538.88
+20985,Essential T-Shirt 0984,Sports,PureCare,1184.97,1426.58
+20986,Advanced Watch 0985,Fashion,HomePro,4693.54,7938.16
+20987,Advanced Camera 0986,Sports,FitLife,5961.86,12714.36
+20988,Premium Phone 0987,Books,FitLife,4030.25,8693.59
+20989,Smart Watch 0988,Accessories,StyleHub,6341.26,9567.74
+20990,Classic Headphones 0989,Beauty,UrbanX,6744.58,8971.55
+20991,Smart Laptop 0990,Fashion,HomePro,7341.37,11685.72
+20992,Advanced Shoes 0991,Electronics,UrbanX,3087.61,4583.42
+20993,Pro Camera 0992,Books,UrbanX,7244.33,12001.79
+20994,Classic Shoes 0993,Grocery,DailyMart,5701.53,10124.54
+20995,Premium Phone 0994,Beauty,FitLife,5036.81,9855.29
+20996,Essential Camera 0995,Grocery,StyleHub,4474.82,8125.67
+20997,Advanced Headphones 0996,Beauty,HomePro,255.79,533.75
+20998,Advanced Phone 0997,Beauty,Nova,4526.61,8702.39
+20999,Essential Coffee Maker 0998,Electronics,,6254.03,10597.95
+21000,Premium Camera 0999,Sports,UrbanX,7908.1,10084.92
